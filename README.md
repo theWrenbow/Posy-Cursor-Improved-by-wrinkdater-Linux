@@ -1,5 +1,16 @@
 <img alt="Posys Cursors Improved by wrinkdater" src="./Showcase Images/Posys Cursors Improved by wrinkdater.png" />
 
+# Posy's Improved Cursors for Linux
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+This is a Linux port of Michiel de Boer's amazing cursor design.
+He presented it in a brilliant video in 2018: [Posy - Mouse Cursor History (and why I made my own)](https://www.youtube.com/watch?v=YThelfB2fvg)
+
+This work and the original work are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc] (free to use, change and distribute for non-commercial use).
+
+The original work can be found on his website, [michieldb.nl](http://www.michieldb.nl/other/cursors/), as well as installers for Windows.
+
 # Schemes Showcase
 <table><thead><tr><td></td><td align="center">Default</td><td align="center">Mono</td><td align="center">Mono<br>Black</td><td align="center">Black</td><td rowspan="18"></td><td colspan="5" align="center">Extras</td></tr>
 <tr><td>pointer</td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Default%20%26%20Mono/pointer.png" alt="Image" width="48" height="48"></td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Black%20%26%20Mono%20Black/pointer.png" alt="Image" width="48" height="48"></td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Tailed%20pointers/pointer.png" width="48" height="48"></td><td></td><td colspan="2" align="center"><img src="https://raw.githubusercontent.com/wrinkdater/Posys-Cursors-Improved-by-wrinkdater/refs/heads/main/Showcase%20Images/Extras/Tailed%20pointers/Black%20pointer.png" alt="Image" width="48" height="48"></td></tr>
